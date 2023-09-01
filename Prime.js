@@ -10,10 +10,10 @@ for(let i=1; i<=num; i++)
 
 if(count==2)
 {
-	console.log("prime no")
+	console.log("Prime no")
 }
 else
 {
-	console.log("not prime no")
+	console.log("Not Prime no")
 }
 }
